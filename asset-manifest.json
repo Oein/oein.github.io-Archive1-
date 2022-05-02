@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92c06f8c.css",
+    "main.js": "/static/js/main.0d3e793c.js",
+    "static/media/background.jpg": "/static/media/background.d6ab3e81fa9aa0c55ee2.jpg",
+    "static/media/BraveDevsBackGround.jpeg": "/static/media/BraveDevsBackGround.72a8b52d9d7104544b3e.jpeg",
+    "static/media/Logo.png": "/static/media/Logo.999203477797b7da938f.png",
+    "static/media/Oein.png": "/static/media/Oein.796b5bd079c3930f43be.png",
+    "static/media/what.jpeg": "/static/media/what.868837f8438ddd2ceade.jpeg",
+    "static/media/BraveDevs.png": "/static/media/BraveDevs.f24ac2e1a96829f134a0.png",
+    "index.html": "/index.html",
+    "main.92c06f8c.css.map": "/static/css/main.92c06f8c.css.map",
+    "main.0d3e793c.js.map": "/static/js/main.0d3e793c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c06f8c.css",
+    "static/js/main.0d3e793c.js"
+  ]
+}
